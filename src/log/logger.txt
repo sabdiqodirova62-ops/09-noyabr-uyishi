@@ -1,0 +1,17 @@
+
+[Fri Nov 13 2026 23:50:21 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_Role already exists
+[Fri Nov 13 2026 23:50:36 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_Role already exists
+[Fri Nov 13 2026 23:50:36 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_Database connection failed
+[Fri Nov 13 2026 23:54:04 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_Role already exists
+[Fri Nov 13 2026 23:54:27 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_Role already exists
+[Fri Nov 13 2026 23:57:42 GMT+0500 (O‘zbekiston standart vaqti)]_POST_/api/v1/roles_a is not defined
+[2026-11-13T19:06:17.681Z]_POST_/api/v1/roles_a is not defined
+[2026-11-13T19:06:29.156Z]_POST_/api/v1/roles_a is not defined
+[14/11/2026, 00:10:31]_POST_/api/v1/roles_a is not defined
+[14/11/2026, 13:31:32]_POST_/api/v1/teachers_syntax error at or near "RETIRNING"
+[14/11/2026, 13:32:46]_POST_/api/v1/teachers_duplicate key value violates unique constraint "users_phone_key"
+[14/11/2026, 13:35:34]_POST_/api/v1/teachers_duplicate key value violates unique constraint "users_phone_key"
+[14/11/2026, 13:35:42]_POST_/api/v1/teachers_duplicate key value violates unique constraint "users_phone_key"
+[14/11/2026, 13:45:22]_POST_/api/v1/teachers_duplicate key value violates unique constraint "users_phone_key"
+[14/11/2026, 13:50:30]_POST_/api/v1/teachers_relation "mentor_profile" does not exist
+[14/11/2026, 13:53:07]_POST_/api/v1/teachers_relation "mentor_profile" does not exist
